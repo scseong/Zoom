@@ -1,7 +1,7 @@
 {
   "name": "zoom",
   "version": "1.0.0",
-  "type" : "module",
+  "type": "module",
   "description": "Zoome Clone using NodeJS, WebRTC and Websockets",
   "license": "MIT",
   "scripts": {
@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "express": "^4.17.2",
-    "pug": "^3.0.2"
+    "pug": "^3.0.2",
+    "ws": "^8.4.0"
   }
 }
